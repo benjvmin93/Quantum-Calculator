@@ -83,6 +83,7 @@ def quantum_adder(a : int, b : int, backend=None) -> int:
 
     return result
 
+"""
 def main():
     a = int(input("Enter first number:"))
     b = int(input("Enter second number:"))
@@ -94,4 +95,5 @@ def main():
     print(f"Results: {a} + {b} = {binstr} = {res}")
 
 if __name__ == "__main__":
-    main()
+    main() 
+"""
